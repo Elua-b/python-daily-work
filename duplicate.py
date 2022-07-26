@@ -10,4 +10,4 @@ print(is_isogram('pear'))
 
 print(is_isogram('apple'))
 
-   
+        
